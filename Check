@@ -1,6 +1,5 @@
 return {
-  "468cf7db-edbc-4652-b134-61fe77155b0d",
-  "39526610-5d83-41ba-b51e-6a59113a434d",
-  "5E09499C-3C0E-43CE-BF1F-C35E3120807B",
-  "166e2455-6785-4e85-9271-3708ccdc4d28",
+  "166e2455-6785-4e85-9271-3708ccdc4d28", -- Perm Acess Kazan
+  "468cf7db-edbc-4652-b134-61fe77155b0d", -- Perm Acess Tmz
+  "39526610-5d83-41ba-b51e-6a59113a434d", -- Perm Acess Julia
 }
